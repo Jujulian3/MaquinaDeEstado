@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaquinaDeEstado.Programa", "AtividadeJoao\MaquinaDeEstado.Programa.csproj", "{8927B199-4A2D-462F-9A8A-FC19C40A4EAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaquinaDeEstado.Programa", "MaquinaDeEstado.Programa\MaquinaDeEstado.Programa.csproj", "{8927B199-4A2D-462F-9A8A-FC19C40A4EAF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaquinaDeEstado.Teste", "AtividadeJoao.Teste\MaquinaDeEstado.Teste.csproj", "{ED49726B-8EC4-4148-9732-C3C63A0A947B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaquinaDeEstado.Teste", "MaquinaDeEstado.Teste\MaquinaDeEstado.Teste.csproj", "{ED49726B-8EC4-4148-9732-C3C63A0A947B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
